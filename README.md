@@ -2,6 +2,7 @@
 The Teochew Language
 
 Diê⁵ziu¹uê⁷ Pêng¹im¹
+![image](http://m.czyzd.com/content/images/logo.svg)
 
 http://www.czyzd.com/data/chaopin
 
